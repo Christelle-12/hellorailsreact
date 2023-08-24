@@ -7,13 +7,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [📷 Video Recording](#video-record)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -24,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 DOC BOOK app  <a name="about-project"></a>
+# 📖 Hello-rails-react app  <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,15 +53,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Video recording -->
-
-## 🚀 Live Demo <a name="video-record"></a>
-
-- [Video recording ]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
